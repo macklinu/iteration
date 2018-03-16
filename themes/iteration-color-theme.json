@@ -4,7 +4,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#969896",
+        "foreground": "#969896"
       }
     },
     {
@@ -53,7 +53,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#748dc7"
+        "foreground": "#1e3f8b"
       }
     },
     {
@@ -393,9 +393,9 @@
       "name": "JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#FF0000",
+        "foreground": "#4fa2d8"
       }
-    }
+    },
     {
       "name": "JSON Property - 20 Deep",
       "scope":
@@ -918,6 +918,13 @@
     "sideBarSectionHeader.foreground": "#5d5ea8",
     "statusBar.background": "#5d5ea8",
     "statusBar.foreground": "#ecdeed",
+    "statusBar.debuggingBackground": "#ef604c",
+    "statusBar.debuggingForeground": "#ecdeed",
+    "statusBar.noFolderBackground": "#d4c7d5",
+    "statusBar.noFolderForeground": "#5d5ea8",
+    "button.background": "#5d5ea8",
+    "button.hoverBackground": "#5d5ea8dd",
+    "button.foreground": "#ecdeed",
     "editorLineNumber.foreground": "#ef604c",
     "editorActiveLineNumber.foreground": "#d75644",
     "activityBar.background": "#ecdeed",
@@ -929,7 +936,7 @@
     "tab.inactiveBackground": "#ecdeed",
     "tab.border": "#d4c7d5",
     "editorGroup.background": "#ecdeed",
-    "editorGroup.dropBackground": "#ecdeed",
+    "editorGroup.dropBackground": "#5d5ea82e",
     "editorGroupHeader.tabsBackground": "#ecdeed",
     "editorGroupHeader.noTabsBackground": "#ecdeed",
     "notifications.background": "#5d5ea8",
@@ -939,7 +946,12 @@
     "editorGutter.modifiedBackground": "#8ec3e6",
     "gitDecoration.untrackedResourceForeground": "#80c4ac",
     "gitDecoration.deletedResourceForeground": "#ef604c",
-    "gitDecoration.modifiedResourceForeground": "#748dc7"
+    "gitDecoration.modifiedResourceForeground": "#748dc7",
+    "debugToolBar.background": "#ecdeed",
+    "terminal.background": "#ecdeed",
+    "scrollbarSlider.background": "#5d5ea82e",
+    "scrollbarSlider.hoverBackground": "#5d5ea85e",
+    "scrollbarSlider.activeBackground": "#5d5ea8"
   },
   "name": "iteration",
   "type": "light"
