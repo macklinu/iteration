@@ -1,19 +1,17 @@
 {
   "name": "iteration",
-  "displayName": "iteration",
+  "displayName": "Iteration",
   "description": "iteration",
   "version": "0.0.2",
   "publisher": "macklinu",
   "engines": {
     "vscode": "^1.21.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
-        "label": "iteration",
+        "label": "Iteration",
         "uiTheme": "vs",
         "path": "./themes/iteration-color-theme.json"
       }
