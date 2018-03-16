@@ -393,7 +393,7 @@
       "name": "JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#4fa2d8"
+        "foreground": "#748dc7"
       }
     },
     {
@@ -902,6 +902,7 @@
     "editor.lineHighlightBackground": "#d4c7d5",
     "editor.selectionBackground": "#fdc37b",
     "editorActiveLineNumber.foreground": "#d75644",
+    "editorCodeLens.foreground": "#5d5ea8aa",
     "editorCursor.background": "#5d5ea8",
     "editorCursor.foreground": "#fdc37b",
     "editorError.foreground": "#d75644",
@@ -911,19 +912,23 @@
     "editorGroupHeader.tabsBackground": "#ecdeed",
     "editorGroupHeader.tabsBorder": "#5d5ea82e",
     "editorGutter.addedBackground": "#8FDAC0",
+    "editorGutter.background": "#ecdeed",
     "editorGutter.deletedBackground": "#ef604c",
     "editorGutter.modifiedBackground": "#8ec3e6",
-    "editorHoverWidget.background": "#d4c7d5",
+    "editorHoverWidget.background": "#ecdeed",
+    "editorHoverWidget.border": "#5d5ea82e",
     "editorIndentGuide.background": "#ecdeed",
     "editorInfo.foreground": "#8ec3e6",
     "editorLineNumber.foreground": "#ef604c",
+    "editorLink.activeForeground": "#8ec3e6",
     "editorOverviewRuler.errorForeground": "#ef604c",
     "editorOverviewRuler.findMatchForeground": "#fdc37b",
     "editorOverviewRuler.infoForeground": "#8ec3e6",
+    "editorRuler.foreground": "#5d5ea82e",
     "editorSuggestWidget.foreground": "#5d5ea8",
     "editorWarning.foreground": "#fdc37b",
-    "editorWhitespace.foreground": "#d4c7d5",
-    "editorWidget.background": "#d4c7d5",
+    "editorWhitespace.foreground": "#5d5ea82e",
+    "editorWidget.background": "#ecdeed",
     "errorForeground": "#ef604c",
     "extensionButton.prominentBackground": "#5d5ea8",
     "extensionButton.prominentForeground": "#ecdeed",
